@@ -61,3 +61,4 @@ This will typically launch the application at http://localhost:3000 in your web 
  - Allowing users to reorder the state rows using drag-and-drop functionality.
  - Allowing users to insert a design into a specific variant column.
 
+<img src="https://t.bkit.co/w_66a4e9437660a.gif" />

@@ -16,7 +16,7 @@ Visit - https://ui-implementation-pi.vercel.app/
 - **Tailwind CSS**: Utility-first CSS framework for rapid styling.
 - **Lucid Icons**: Customizable and scalable icon library.
 - **Redux Toolkit**: Simplified state management solution for Redux.
-- **Drag-and-Drop Library **: React Beautiful DND Library for enabling product reordering \
+- **Drag-and-Drop Library**: React Beautiful DND Library for enabling product reordering \
 
 ## Screenshots
 

@@ -20,8 +20,9 @@ Visit - https://ui-implementation-pi.vercel.app/
 
 ## Screenshots
 
+![Screenshot 2024-07-27 151346](https://github.com/user-attachments/assets/0b414326-da32-4ca0-b8a2-0ca0a9f3f8f6)
 
-
+![Screenshot 2024-07-27 151550](https://github.com/user-attachments/assets/90618f20-519a-4c60-8829-b2afacdfc920)
 
 
 ## Installation

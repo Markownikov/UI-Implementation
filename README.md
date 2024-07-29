@@ -4,6 +4,7 @@ A comprehensive product page built with Next.js, Tailwind CSS, Redux Toolkit, an
 
 Visit - https://ui-implementation-pi.vercel.app/
 
+
 ## Key Features
 
 - **Interactive Navigation Bar**: Seamless navigation between different sections of the product page.
